@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+<title>Blacksburg Fire Department - Last 100 Calls</title>
+<id>https://blacksburgfire.org/</id>
+<link rel="self" href="/recent.atom" />
+<updated>2025-09-28T14:02:12Z</updated>
+
+<entry>
+<title>Fire Alarm</title>
+<id>https://blacksburgfire.org/575330914</id>
+<content>570 EXAMPLE ST</content>
+<summary>570 EXAMPLE ST</summary>
+<updated>2025-09-27T22:13:26Z</updated>
+<author><name>Blacksburg Fire</name></author>
+</entry>
+
+</feed>
